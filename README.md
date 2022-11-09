@@ -1,4 +1,4 @@
-## Login System with Python Flask and MySQL for Beginners
+## Authentication_full_backend
 
 ### Requirements(Minimum)
 
@@ -30,7 +30,7 @@ Depending on your operating system,make a virtual environment to avoid messing w
           
 ```
 
-cd Login-System-with-Python-Flask-and-MySQL
+cd Authentication_full_backend 
 py -3 -m venv venv
 
 ```
@@ -38,7 +38,7 @@ py -3 -m venv venv
 **macOS/Linux**
           
 ```
-cd Login-System-with-Python-Flask-and-MySQL
+cd Authentication_full_backend 
 python3 -m venv venv
 
 ```
@@ -59,8 +59,10 @@ or
 
 Applies for windows/macOS/Linux
 
-```pip install -r requirements.txt```
-  
+``` 
+ pip install -r requirements.txt
+
+```
 ### 4. Run the application 
 
 **For linux and macOS**
@@ -79,6 +81,3 @@ flask run
 
 ```
           
-
-![Image description](https://github.com/HarunHM/Login-System-with-Python-Flask-and-MySQL/blob/master/static/Screenshot%20from%202020-01-11%2020-25-25.png?raw=true)
-Note:-The version of python i use will change in future , so check your python IDE with latest version and if this doesn't work get in touch with me on twitter, https://twitter.com/HarunMbaabu.
